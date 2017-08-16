@@ -1,0 +1,5 @@
+1 Se ingresa un numero y se informa o muestra el numero ingresado.
+2 se ingresan 2 numeros y se muestras las sumas de los mismos.
+3 Se ingresan 3 numeros y se muestra el promedio.
+4 se ingresa la base de un cuadrado y se informa el perimetro del mismo.
+5 Se pide un precio de un producto y se le muestra el importe mas el iva.
