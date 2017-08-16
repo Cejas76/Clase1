@@ -1,0 +1,3 @@
+1 Instalar la IDE de desarrollo (Eclipse-Neón)
+2 Crear un nuevo proyecto llamado Hola Mundo
+3 Una vez terminado el ejercicio lo subo a GitHub
